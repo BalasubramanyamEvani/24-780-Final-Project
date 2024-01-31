@@ -18,3 +18,6 @@ The final project for 24-780 using C++ and OpenGL
 - Jierui Li
 - Ziyi Zhang
 - Shixin Zhou
+
+# Video Link
+https://www.youtube.com/watch?v=vsA_Gg1cYjs
